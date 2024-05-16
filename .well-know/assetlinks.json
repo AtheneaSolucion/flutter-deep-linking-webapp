@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.AtheneaSoluciones.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["85:F3:C5:63:55:75:E5:92:56:A5:A8:43:7D:44:A0:9C:F2:D2:89:E9:51:ED:2E:04:0F:B0:A7:D0:E1:8B:56:CB"]
+    }
+  }]
